@@ -12,6 +12,12 @@ export const {config,createTheme,getCssText,globalCss,keyframes,styled,theme,css
 
             green500: "#00875f",
             green300: "#00B37E",
+        },
+        fontSizes: {
+            md: "1.125rem",
+            lg: "1.25rem",
+            xl: "1.5rem",
+            "2xl": "2rem",
         }
     }
 });
